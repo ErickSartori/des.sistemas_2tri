@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+header{
+    background-color: wheat;
+    text-align: center;
+    font-size: x-large;
+    height: 250px;
+}
